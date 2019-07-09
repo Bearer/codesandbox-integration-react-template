@@ -2,3 +2,5 @@
 export const CLIENT_ID = 'CHANGE_ME'
 // Integration name you want to try
 export const INTEGRATION_NAME = 'CHANGE_ME'
+// Setup id
+export const SETUP_ID = 'CHANGE_ME'
